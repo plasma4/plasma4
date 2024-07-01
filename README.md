@@ -1,6 +1,8 @@
 Hello, it's me: weird programmer, I know.
 
-You're likely looking for my main website ([right here](https://plasma4.github.io/my-site/)). I program mostly in JavaScript, although I have dabbled in other programming languages like Java, JavaScript, C/C++, and Python.
+You're likely looking for my main website ([right here](https://plasma4.github.io/my-site/)). I program mostly in JavaScript, although I have dabbled in other programming languages like Java, C/C++, and Python.
+
+I've also been the first person to fix the [Magix mod for NeverEnding Legacy](https://plasma4.github.io/my-site/), which is a popular mod of a somewhat played game.
 
 I've made:
 * [An interactive fractal viewer](https://plasma4.github.io/my-site/fractal.html)
